@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chao Yu &amp; Kai Lin Zhu</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-31T07:28:47.100Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Chao Yu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>YC&amp;ZKL的第一篇博客</title>
+    <link href="http://yoursite.com/2019/07/31/YC-ZKL/"/>
+    <id>http://yoursite.com/2019/07/31/YC-ZKL/</id>
+    <published>2019-07-31T03:24:22.000Z</published>
+    <updated>2019-07-31T07:28:47.100Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>7月31日，南通的天气还是那么热情洋溢。</li><li>希望您能早点回国，哈哈哈。<br><img src="/img//pig.jpg" alt></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ol&gt;
+&lt;li&gt;7月31日，南通的天气还是那么热情洋溢。&lt;/li&gt;
+&lt;li&gt;希望您能早点回国，哈哈哈。&lt;br&gt;&lt;img src=&quot;/img//pig.jpg&quot; alt&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
