@@ -14,11 +14,11 @@ const ap = new APlayer({
     audio: [ //音频信息,包含以下
         {
             name: '我愿意', //音频名称
-            artist: '陈晓东', //音频艺术家
-            url: '/images/我愿意.mp3', //音频外链
-            cover: '/images/陈晓东.jpg', //音频封面
+            artist: '喻超', //音频艺术家
+            url: '/img/我愿意.mp3', //音频外链
+            cover: '/img/陈晓东.jpg', //音频封面
             theme: '#ebd0c2',
-			lrc: '/images/我愿意.lrc'			
+			lrc: '/img/我愿意.lrc'			
         },
        
     ]
