@@ -16,7 +16,7 @@ const ap = new APlayer({
             name: '我愿意', //音频名称
             artist: '喻超', //音频艺术家
             url: '/img/我愿意.mp3', //音频外链
-            cover: '/img/陈晓东.jpg', //音频封面
+            cover: '/img/yuc.jpg', //音频封面
             theme: '#ebd0c2',
 			lrc: '/img/我愿意.lrc'			
         },
