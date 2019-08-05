@@ -4,7 +4,7 @@ const ap = new APlayer({
     autoplay: true, //自动播放
     theme: '#FADFA3', //主题色
     loop: 'all', //音频循环播放, 可选值: 'all'全部循环, 'one'单曲循环, 'none'不循环
-    order: 'random', //音频循环顺序, 可选值: 'list'列表循环, 'random'随机循环
+    order: 'list', //音频循环顺序, 可选值: 'list'列表循环, 'random'随机循环
     preload: 'auto', //预加载，可选值: 'none', 'metadata', 'auto'
     volume: 0.5, //默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
     mutex: true, 
@@ -19,6 +19,20 @@ const ap = new APlayer({
             cover: '/img/yuc.jpg', //音频封面
             theme: '#ebd0c2',
 			lrc: '/img/我愿意.lrc'			
+        },
+		{
+            name: '爱的就是你', //音频名称
+            artist: '喻超', //音频艺术家
+            url: '/img/王力宏-爱的就是你.mp3', //音频外链
+            cover: '/img/aide.jpg', //音频封面
+            theme: '#ebd0c2',
+        },
+		{
+            name: '朱凯琳-爱的就是你', //音频名称
+            artist: '喻超', //音频艺术家
+            url: '/img/刘佳-爱的就是你.mp3', //音频外链
+            cover: '/img/zhu.jpg', //音频封面
+            theme: '#ebd0c2',
         },
        
     ]
